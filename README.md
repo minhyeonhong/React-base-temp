@@ -3,7 +3,6 @@
 
 ## 프로젝트 기본 뼈대를 잡고 가기위해 만듬
 
-***
 <br/>
 
 ## 설치한 라이브러리들
@@ -35,13 +34,11 @@
 - browser-image-compression
 
         npm i browser-image-compression
-***
 <br/>
 
 ## 폴더/파일 구조
 
 ![image](https://user-images.githubusercontent.com/90454621/199665556-9d1e563a-9fdc-4d79-822e-d9f1f0ddc858.png)
-***
 <br/>
 
 ## 실행 화면
